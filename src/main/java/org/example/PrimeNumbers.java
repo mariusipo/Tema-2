@@ -1,9 +1,8 @@
 package org.example;
 import java.util.Scanner;
 
-/* Display all the prime numbers lower than a given number
- Validation Criteria: Respecting naming conventions
- */
+// Display all the prime numbers lower than a given number
+
 public class PrimeNumbers {
     public static void main (String[] args)
     {
