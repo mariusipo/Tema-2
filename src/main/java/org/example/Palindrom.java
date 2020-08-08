@@ -1,7 +1,7 @@
 package org.example;
 
 // Check if a number is palindrom( e.g palindrom 1221, 34143)
-public class Palindrome {
+public class Palindrom {
     public static void main( String[] args ) {
 
         int num = 34143, reversedInteger = 0, remainder, originalInteger;
