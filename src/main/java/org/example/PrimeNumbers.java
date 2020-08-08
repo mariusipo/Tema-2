@@ -8,9 +8,9 @@ public class PrimeNumbers {
     public static void main (String[] args)
     {
         Scanner scanner = new Scanner(System.in);
-        int i = 0;
-        int num = 0;
-        //Empty String
+        int i;
+        int num;
+
         String  primeNumbers = "";
         System.out.println("Enter the value of n:");
         int n = scanner.nextInt();
